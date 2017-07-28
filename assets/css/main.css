@@ -2197,8 +2197,8 @@
 
 			table.alt tbody tr td {
 				border: solid 1px #fff;
-				border-left-width: 1;
-				border-top-width: 1;
+				border-left-width: 0;
+				border-top-width: 0;
 			}
 
 				table.alt tbody tr td:first-child {
