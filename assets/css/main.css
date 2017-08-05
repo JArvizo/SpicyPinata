@@ -2789,11 +2789,11 @@
 			}
 
 		.wrapper.style2 {
-			background-color: #CC163C;
+			background-color: #CC163C;					<!-- COLOR //-->
 		}
 
 		.wrapper.style3 {
-			background-color: #CC163C;
+			background-color: #CC163C;					<!--COlOR//-->
 			color: #d3d4e4;
 		}
 
@@ -3248,7 +3248,7 @@
 		-webkit-transition: background-color 0.2s ease;
 		-ms-transition: background-color 0.2s ease;
 		transition: background-color 0.2s ease;
-		background: #fa543b; 								<!-- BANNER COLOR //-->
+		background: #2E3842; 								<!--COLOR//-->
 		height: 3em;
 		left: 0;
 		line-height: 3em;
