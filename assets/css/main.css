@@ -1916,15 +1916,15 @@
 			}
 
 		.icon.style1 {
-			color: #00ffcc;
+			color: #ffffff;
 		}
 
 		.icon.style2 {
-			color: #00f0ff;
+			color: #ffffff;
 		}
 
 		.icon.style3 {
-			color: #76ddff;
+			color: #ffffff;
 		}
 
 /* Image */
@@ -2635,7 +2635,7 @@
 		}
 
 		.wrapper.style1 {
-			background-color: #ffb347;
+			background-color: #ffc536;					<!--COLOR-->
 			color: #ffffff;
 		}
 
@@ -2660,7 +2660,7 @@
 			}
 
 			.wrapper.style1 header p {
-				color: #a6e0db;
+				color: #ffffff;
 			}
 
 			.wrapper.style1 header.major h2, .wrapper.style1 header.major h3, .wrapper.style1 header.major h4, .wrapper.style1 header.major h5, .wrapper.style1 header.major h6 {
@@ -2793,7 +2793,7 @@
 		}
 
 		.wrapper.style3 {
-			background-color: #CC163C;					<!--COlOR//-->
+			background-color: #931740;					<!--COlOR//-->
 			color: #d3d4e4;
 		}
 
